@@ -27,7 +27,7 @@
       "address": "0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+      "logoURI": "https://degentoken.finance/aDGNZ-250x250.png",
     },
      {
       "name": "DGNZ Token",
@@ -35,7 +35,7 @@
       "address": "0xb68a67048596502a8b88f1c10abff4fa99dfec71",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+      "logoURI": "https://degentoken.finance/favicon.png",
     },
     {
       "name": "BUSD Token",
