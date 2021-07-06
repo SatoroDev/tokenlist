@@ -21,18 +21,18 @@
   {
       "name": "aDGNZ Token",
       "symbol": "aDGNZ",
-      "address": "0xe8B9b396c59A6BC136cF1f05C4D1A68A0F7C2Dd7",
+      "address": "0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xe8B9b396c59A6BC136cF1f05C4D1A68A0F7C2Dd7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7/logo.png"
     },
     {
       "name": "DGNZ Token",
       "symbol": "DGNZ",
-      "address": "0xb68a67048596502A8B88f1C10ABFF4fA99dfEc71",
+      "address": "0xb68a67048596502a8b88f1c10abff4fa99dfec71",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xb68a67048596502A8B88f1C10ABFF4fA99dfEc71/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xb68a67048596502a8b88f1c10abff4fa99dfec71/logo.png"
     },
     {
       "name": "WBNB Token",
@@ -45,10 +45,10 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "address": "0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/SatoroDev/tokenlist/master/asset/0xe8b9b396c59a6bc136cf1f05c4d1a68a0f7c2dd7/logo.png"
     },
     {
       "name": "BTCB Token",
